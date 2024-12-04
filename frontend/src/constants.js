@@ -1,4 +1,4 @@
-export const REACT_APP_API_URL = "http://localhost:8080/";
+export const REACT_APP_API_URL = "http://localhost:80/";
 export const ROLES = [
   { role_name: "Администратор", role_id: 1 },
   { role_name: "Пользователь", role_id: 2 },
